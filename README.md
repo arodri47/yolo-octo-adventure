@@ -1,4 +1,4 @@
 yolo-octo-adventure
 ===================
 
-Practice
+This is a practice repository.
